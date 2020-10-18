@@ -1,7 +1,7 @@
 # no_mask_detector
 Play Data Final Team Project no_mask_detector
 
-# 참가인원: 
+# 참가인원
   - 박성우, 남기은, 박주현, 박채연, 이병헌
 
 # 개발내용
